@@ -1,6 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Asia Sabiu Sulaiman] 👋
 
-### Data Scientist & Health Tech Analyst | Abuja, Nigeria 🇳🇬
+### Data Scientist & Health Tech Analyst | Kano, Nigeria 🇳🇬
 
 > *Human Physiology graduate applying data science and machine learning to solve real-world problems in health, business, and advisory contexts.*
 
@@ -12,14 +12,13 @@
 - 📜 **3MTT Data Science & Machine Learning Certificate** — Federal Government of Nigeria
 - 📊 **Microsoft Power BI** — Currently studying (PL-300)
 - 🎯 Targeting roles in **Technology Advisory, Health Data Science & ESG Analytics**
-- 🏢 Actively applying to **KPMG** and health tech companies
 - 📍 Based in **Abuja, Nigeria** — open to remote opportunities
 
 ---
 
 ## 🚀 Featured Project
 
-### 🛒 [Supermarket Sales Prediction App](https://github.com/yourusername/supermarket-sales-prediction)
+### 🛒 [Supermarket Sales Prediction App](https://github.com/asiyasabiu25/Supermarket_Sales_Prediction)
 
 > Built and deployed a live machine learning web app that predicts supermarket transaction sales using a tuned Random Forest model.
 
@@ -52,7 +51,7 @@ domain      = ["Human Physiology", "Clinical Data", "Health Analytics", "Biostat
 
 | Status | Certification | Issuer |
 |---|---|---|
-| ✅ Completed | B.Sc. Human Physiology | [Your University] |
+| ✅ Completed | B.Sc. Human Physiology | [Bayero University, Kano] |
 | ✅ Completed | Data Science & ML Certificate | 3MTT — Fed. Govt. Nigeria |
 | 🔄 In Progress | Microsoft Power BI (PL-300) | Microsoft |
 | 📅 Planned | Google Data Analytics | Google / Coursera |
@@ -87,7 +86,7 @@ This makes me particularly effective in:
 <p>
   <a href="mailto:asiyanaphader@gmail.com">📧 Email</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/asiya-sabiu25">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://yourportfolio.com">🌐 Portfolio Website</a>
+  <a href="https://github.com/asiyasabiu25/Data-Science-Portfolio/tree/main">🌐 Portfolio Website</a>
 </p>
 
 ---
